@@ -18,7 +18,7 @@ This project contains all logos and graphical elements of the [4C project](https
 - If the background is very dark (e.g., in dark mode in a browser), the negative white version with a transparent background may be a suitable choice.
 - The black-and-white version is generally not recommended, but it may be useful in specific cases.
 
-A complete overview of the variants and usage guideline is given [here](https://github.com/4C-multiphysics/4C-design/4C-logo/4C-logo_overview-and-recommendations.pdf).
+A complete overview of the variants and usage guideline is given [here](4C-logo/4C-logo_overview-and-recommendations.pdf).
 
 # Colors
 
