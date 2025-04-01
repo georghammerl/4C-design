@@ -1,6 +1,8 @@
 # License for 4C logo usage
 
-## Approved use cases of the 4C Logo
+## Approved use cases of the 4C logo
+
+The 4C logo is protected by copyright. It may only be used under the conditions specified below.
 
 You are welcome to use the 4C logos from this repository as they are for the following purposes:
 
